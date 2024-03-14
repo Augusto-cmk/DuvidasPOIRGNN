@@ -33,4 +33,7 @@ inputs = [
     ...,
     'input13'
 ]
+```
 Houve a tentativa de remoção dos inputs não úteis ao modelo, mas isso muda completamente a camada na rede neural. Qual era a principal ideia da camada da rede utilizando os 13 inputs ?
+
+
